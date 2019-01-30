@@ -1,5 +1,6 @@
 Ajax
 AMD
+Angular
 API
 Babel
 BEM
@@ -10,6 +11,7 @@ Closure
 Closure Compiler
 committer
 composable
+Cypress
 debounce
 CORS
 CSS
@@ -19,6 +21,7 @@ DOM
 deserialize
 ECMAScript
 Electron
+Elm
 ESLint
 falsy
 Flux
@@ -32,6 +35,7 @@ Hapi
 HTML
 HTTP
 HTTPS
+HTTP/2
 IIFE
 JavaScript
 jQuery
@@ -69,9 +73,12 @@ SSL
 serialize
 serverless
 snackbar
+SpiderMonkey
+TCP
 truthy
 TSLint
 TypeScript
+UDP
 UX
 V8
 VDOM
@@ -81,4 +88,5 @@ Vue.js
 WASM
 WebGL
 webhook
+WebSocket
 XHR
