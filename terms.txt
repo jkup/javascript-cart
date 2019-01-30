@@ -53,7 +53,7 @@ npx
 nvm
 pageable
 Phantom.js
-Phatom
+Phantom
 polyfill
 precached
 precommit
@@ -75,7 +75,7 @@ TypeScript
 UX
 V8
 VDOM
-Virutal DOM
+Virtual DOM
 Vue
 Vue.js
 WASM
