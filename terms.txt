@@ -2,6 +2,7 @@ Ajax
 AMD
 Angular
 API
+Atom
 Babel
 BEM
 Browserify
@@ -24,6 +25,7 @@ Electron
 Elm
 ESLint
 falsy
+Firefox
 Flux
 FTP
 Git
@@ -63,11 +65,13 @@ precached
 precommit
 prerequest
 promisify
+React
 recurse
 Redux
 refactor
 repo
 RequireJS
+Rust
 RxJS
 SSL
 serialize
