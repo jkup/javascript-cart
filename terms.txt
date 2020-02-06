@@ -11,6 +11,8 @@ Chakra
 Closure
 Closure Compiler
 committer
+compiler
+component
 composable
 Cypress
 debounce
@@ -27,6 +29,7 @@ ESLint
 falsy
 Firefox
 Flux
+framework
 FTP
 Git
 GitHub
@@ -71,6 +74,7 @@ Redux
 refactor
 repo
 RequireJS
+runtime
 Rust
 RxJS
 SSL
@@ -78,6 +82,7 @@ serialize
 serverless
 snackbar
 SpiderMonkey
+Svelte
 TCP
 truthy
 TSLint
